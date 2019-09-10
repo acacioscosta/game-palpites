@@ -10,7 +10,7 @@ export default function App() {
       </section>
       <section className='parado container'>
         <p>Pense em um número entre <strong>0</strong> e <strong>300</strong>, depois clique em <strong>INICIAR</strong></p>
-        <Link to='/gaming'><button type='button'>INICIAR</button></Link>
+        <Link to='/playing'><button type='button'>INICIAR</button></Link>
       </section>
       <section className='footer'>
         <p><i>Powered by</i> - Acácio S. Costa</p>
