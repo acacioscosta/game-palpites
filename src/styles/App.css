@@ -34,6 +34,9 @@
   font-weight: bold;
   margin: 5px 20px;
 }
+.button:hover {
+  cursor: pointer;
+}
 
 .container {
   border: 1px solid black;

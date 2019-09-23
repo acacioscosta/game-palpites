@@ -36,6 +36,9 @@ $blue-custom: #3498db;
     border-radius: 3px;
     font-weight: bold;
     margin: 5px 20px;
+    &:hover{
+        cursor: pointer
+    }
 }
 
 .container{
